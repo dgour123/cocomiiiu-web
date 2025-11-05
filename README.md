@@ -1,30 +1,16 @@
-# HooBank - Business Website Template
+# React + Vite
 
-Modern responsive business website design made with React and Tailwind CSS.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-⚠️ **All names, information and assets used are fake and do not represent a real componany.** ⚠️
+Currently, two official plugins are available:
 
-Live demo can be found under this [**link**](https://business-website-template.onrender.com/).
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![image](https://user-images.githubusercontent.com/72783924/222011304-859783c2-3a38-47b6-9427-d323f01d0fba.png)
+## Expanding the ESLint configuration
 
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-## Layout
-- Header
-- Hero section
-- Features section
-- Billing section
-- Product showcase section
-- Testimonials section
-- Clients section
-- Call to action section
-- Footer
+ 
 
-## Built With
-- React.js
-- Tailwind CSS
-- Vite
-
-## Acknowledgments
-- [**Original Figma Design**](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485&t=Jkk7MU9hZJ5HoVph-0)
-- [**JavaScript Mastery video**](https://youtu.be/_oO4Qi5aVZs)
+ 
